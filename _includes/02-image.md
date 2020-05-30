@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of digital world] (https://www.google.com/url?sa=i&url=https%3A%2F%2Festonianworld.com%2Fopinion%2Festonias-next-president-aspire-global-cyber-security-leadership%2F&psig=AOvVaw2GesJ0gx9oRp29LKd6qTRj&ust=1590923424236000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjP_eG52-kCFQAAAAAdAAAAABAM)
